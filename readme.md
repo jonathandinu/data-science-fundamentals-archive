@@ -1,9 +1,6 @@
 # Data Science Fundamentals
 
-[![Join the chat at https://gitter.im/data-science-fundamentals](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/data-science-fundamentals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
-
-<!-- [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/hopelessoptimism/data-science-fundamentals)
- -->
+Discord Chat: https://discord.gg/ddaKTmy
 
 This repository contains the exercises and data for [Data Science Fundamentals Part 1: Learning Basic Concepts, Data Wrangling, and Databases with Python](https://learning.oreilly.com/videos/data-science-fundamentals/9780134660141) and [Data Science Fundamentals Part 2: Machine Learning and Statistical Analysis](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877). It teaches you the foundational concepts, theory, and techniques you need to know to become an effective data scientist. The videos present you with applied, example-driven lessons in Python and its associated ecosystem of libraries, where you get your hands dirty with real datasets and see real results.
 
@@ -14,9 +11,9 @@ The corresponding videos can be found on the following sites for purchase:
 * [Part 1 (individual purchase)](https://www.informit.com/store/data-science-fundamentals-part-1-complete-video-course-9780134660158)
 * [Part 2 (individual purchase)](https://www.informit.com/store/data-science-fundamentals-part-2-complete-video-course-9780134778846)
 
-And/or please do not hesitate to reach out to me directly via email at jondinu@gmail.com or over twitter @jonathandinu
+And/or please do not hesitate to reach out to me directly via email at inquiries@jonathan.industries or over twitter @memoryphoneme
 
-> If you find any errors in the code or materials, please open a Github [issue](https://github.com/hopelessoptimism/data-science-fundamentals/issues) in this repository
+> If you find any errors in the code or materials, please open a Github [issue](https://github.com/jondinu/data-science-fundamentals/issues) in this repository
 
 ## Skill Level
 
