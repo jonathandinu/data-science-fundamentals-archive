@@ -1,19 +1,20 @@
 # Data Science Fundamentals
 
-Discord Chat: https://discord.gg/ddaKTmy
+[![Discord badge](https://img.shields.io/discord/830547562385113149?style=flat-square&color=%235865F2)](https://discord.gg/nbyZ6EpUum)
+[![Twitter Follow badge](https://img.shields.io/badge/twitter-@jonathandinu-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/jonathandinu)
+[![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
 
-This repository contains the exercises and data for [Data Science Fundamentals Part 1: Learning Basic Concepts, Data Wrangling, and Databases with Python](https://learning.oreilly.com/videos/data-science-fundamentals/9780134660141) and [Data Science Fundamentals Part 2: Machine Learning and Statistical Analysis](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877). It teaches you the foundational concepts, theory, and techniques you need to know to become an effective data scientist. The videos present you with applied, example-driven lessons in Python and its associated ecosystem of libraries, where you get your hands dirty with real datasets and see real results.
+This repository contains the exercises and data for [Data Science Fundamentals Part 1: Learning Basic Concepts, Data Wrangling, and Databases with Python](http://jonathans.estate/ds-fun-1-videos) and [Data Science Fundamentals Part 2: Machine Learning and Statistical Analysis](http://jonathans.estate/ds-fun-2-videos). It teaches you the foundational concepts, theory, and techniques you need to know to become an effective data scientist. The videos present you with applied, example-driven lessons in Python and its associated ecosystem of libraries, where you get your hands dirty with real datasets and see real results.
 
 ## Materials
 
-The corresponding videos can be found on the following sites for purchase:
+The code, slides, and exercises in this repository are (and will always be) freely available. The corresponding videos can be purchased on:
 
-* [Part 1 (individual purchase)](https://www.informit.com/store/data-science-fundamentals-part-1-complete-video-course-9780134660158)
-* [Part 2 (individual purchase)](https://www.informit.com/store/data-science-fundamentals-part-2-complete-video-course-9780134778846)
+* [InformIT (Part 1)](http://jonathans.estate/ds-fun-1-videos) (individual purchase)
+* [InformIT (Part 2)](http://jonathans.estate/ds-fun-2-videos) (individual purchase)
+* O'Reilly Learning: [Part 1](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) & [Part 2](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877) (subscription)
 
-And/or please do not hesitate to reach out to me directly via email at inquiries@jonathan.industries or over twitter @memoryphoneme
-
-> If you find any errors in the code or materials, please open a Github [issue](https://github.com/jondinu/data-science-fundamentals/issues) in this repository
+> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to inquiries@jonathan.industries
 
 ## Skill Level
 
