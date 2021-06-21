@@ -4,6 +4,10 @@
 [![Twitter Follow badge](https://img.shields.io/badge/twitter-@jonathandinu-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/jonathandinu)
 [![YouTube Channel Subscribers](https://img.shields.io/badge/youtube-subscribe-FF0000?logo=youtube&style=flat-square)](https://www.youtube.com/channel/UCi0Hd3U6xb4V0ApUhAIfu9Q)
 
+> 40+ hours of video instruction and code-along sessions that teach you the foundational concepts, theory, and techniques you need to know to become an effective data scientist with Python.
+
+## Overview
+
 This repository contains the exercises and data for [Data Science Fundamentals Part 1: Learning Basic Concepts, Data Wrangling, and Databases with Python](http://jonathans.estate/ds-fun-1-videos) and [Data Science Fundamentals Part 2: Machine Learning and Statistical Analysis](http://jonathans.estate/ds-fun-2-videos). It teaches you the foundational concepts, theory, and techniques you need to know to become an effective data scientist. The videos present you with applied, example-driven lessons in Python and its associated ecosystem of libraries, where you get your hands dirty with real datasets and see real results.
 
 ## Materials
@@ -11,7 +15,7 @@ This repository contains the exercises and data for [Data Science Fundamentals P
 The code, slides, and exercises in this repository are (and will always be) freely available. The corresponding videos can be purchased on:
 
 * __InformIT:__ [Part 1](http://jonathans.estate/ds-fun-1-videos) & [Part 2](http://jonathans.estate/ds-fun-2-videos) (individual purchase)
-* __O'Reilly Learning:__ [Part 1](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) & [Part 2](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877) (subscription)
+* __O'Reilly Learning:__ [Part 1](https://learning.oreilly.com/videos/data-science-fundamentals/9780134660141) & [Part 2](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877) (subscription)
 
 > If you find any errors in the code or materials, please open a Github issue in this repository or send an email to inquiries@jonathan.industries
 
