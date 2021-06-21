@@ -10,9 +10,8 @@ This repository contains the exercises and data for [Data Science Fundamentals P
 
 The code, slides, and exercises in this repository are (and will always be) freely available. The corresponding videos can be purchased on:
 
-* [InformIT (Part 1)](http://jonathans.estate/ds-fun-1-videos) (individual purchase)
-* [InformIT (Part 2)](http://jonathans.estate/ds-fun-2-videos) (individual purchase)
-* O'Reilly Learning: [Part 1](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) & [Part 2](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877) (subscription)
+* __InformIT:__ [Part 1](http://jonathans.estate/ds-fun-1-videos) & [Part 2](http://jonathans.estate/ds-fun-2-videos) (individual purchase)
+* __O'Reilly Learning:__ [Part 1](https://learning.oreilly.com/videos/spark-ray-and/9780136805922/) & [Part 2](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877) (subscription)
 
 > If you find any errors in the code or materials, please open a Github issue in this repository or send an email to inquiries@jonathan.industries
 
