@@ -16,7 +16,7 @@ The code, slides, and exercises in this repository are (and will always be) free
 * __InformIT:__ [Part 1](https://www.informit.com/store/data-science-fundamentals-part-1-complete-video-course-9780134660158) & [Part 2](https://www.informit.com/store/data-science-fundamentals-part-2-complete-video-course-9780134778846) (individual purchase)
 * __O'Reilly Learning:__ [Part 1](https://learning.oreilly.com/videos/data-science-fundamentals/9780134660141) & [Part 2](https://learning.oreilly.com/videos/data-science-fundamentals/9780134778877) (subscription)
 
-> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to inquiries@jonathan.industries
+> If you find any errors in the code or materials, please open a Github issue in this repository or send an email to errata@jonathandinu.com.
 
 ## Skill Level
 
